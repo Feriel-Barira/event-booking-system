@@ -46,3 +46,5 @@ cd event-booking-system
 # Installer les dépendances
 npm install
 
+---
+## Configuration
