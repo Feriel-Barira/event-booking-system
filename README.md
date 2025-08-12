@@ -45,6 +45,15 @@ cd event-booking-system
 
 # Installer les dépendances
 npm install
-
+```
 ---
 
+## Configuration 
+Créer un fichier .env à la racine avec le contenu suivant (adapter vos valeurs) :
+```bash
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+EMAIL_USER=your_gmail_address@gmail.com
+EMAIL_PASS=your_gmail_app_password
+```
