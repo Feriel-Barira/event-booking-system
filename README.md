@@ -47,4 +47,5 @@ cd event-booking-system
 npm install
 
 ---
+
 ## Configuration
