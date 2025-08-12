@@ -48,4 +48,3 @@ npm install
 
 ---
 
-## Configuration
