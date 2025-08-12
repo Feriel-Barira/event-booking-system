@@ -46,7 +46,6 @@ cd event-booking-system
 # Installer les dépendances
 npm install
 
----
 # Configuration
 Créer un fichier .env à la racine avec le contenu suivant (adapter vos valeurs) :
 ```bash
