@@ -47,7 +47,7 @@ cd event-booking-system
 npm install
 
 ---
-Configuration
+# Configuration
 Créer un fichier .env à la racine avec le contenu suivant (adapter vos valeurs) :
 ```bash
 PORT=5000
