@@ -57,3 +57,9 @@ JWT_SECRET=your_jwt_secret_key
 EMAIL_USER=your_gmail_address@gmail.com
 EMAIL_PASS=your_gmail_app_password
 ```
+---
+## Démarrage
+Lancer le serveur en mode développement avec nodemon :
+```bash
+npm run dev
+```
